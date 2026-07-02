@@ -186,17 +186,22 @@ ChurnShield-Customer-Churn-Prediction-Dashboard/
 
 ## Current Progress
 
-- ✅ Dataset Inspection
-- ✅ Data Cleaning
-- ✅ Exploratory Data Analysis
-- ✅ Feature Engineering
-- ✅ Model Training
-- ✅ Model Evaluation
-- ✅ Hyperparameter Tuning
-- ⏳ SHAP Explainability
-- ⏳ Model Persistence
-- ⏳ Streamlit Dashboard
-- ⏳ Final Insights Report
+Completed
+
+- Dataset inspection and preprocessing
+- Data cleaning and missing value handling
+- Exploratory Data Analysis (EDA)
+- Feature engineering and preprocessing
+- Model training
+- Model evaluation
+- Hyperparameter tuning using GridSearchCV
+
+Upcoming
+
+- SHAP explainability
+- Model persistence using Joblib
+- Streamlit dashboard development
+- Final business insights report
 
 ---
 
